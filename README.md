@@ -8,7 +8,7 @@
 
 - [МЕХАНИКА](https://github.com/Af2024laba/Lections-mechanics/tree/main/%D0%9C%D0%95%D0%A5%D0%90%D0%9D%D0%98%D0%9A%D0%90)
   
-- [КИНЕМАТИКА]
+- [КИНЕМАТИКА](https://github.com/Af2024laba/Lections-mechanics/tree/main/%D0%94%D0%98%D0%9D%D0%90%D0%9C%D0%98%D0%9A%D0%90)
   
 - [ДИНАМИКА]
 
