@@ -10,6 +10,6 @@
   
 - [КИНЕМАТИКА](https://github.com/Af2024laba/Lections-mechanics/tree/main/%D0%94%D0%98%D0%9D%D0%90%D0%9C%D0%98%D0%9A%D0%90)
   
-- [ДИНАМИКА]
+- [ДИНАМИКА](https://github.com/Af2024laba/Lections-mechanics/tree/main/%D0%94%D0%98%D0%9D%D0%90%D0%9C%D0%98%D0%9A%D0%90)
 
 - [АСТРОНОМИЯ]
